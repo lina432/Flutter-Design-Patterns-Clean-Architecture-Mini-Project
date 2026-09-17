@@ -1,8 +1,3 @@
-يبدو أن رسالتك قُطعت عند كلمة `[https عدله`. هل تريد مني تعديل رابط الـ Clone في قسم "Getting Started" ليطابق تماماً رابط مستودعك الجديد؟
-
-إليك الملف بالكامل مع ضبط رابط الـ Clone ليطابق مستودعك تماماً:
-
-```markdown
 # Flutter Design Patterns, SOLID Principles & Clean Architecture Mini-Project
 
 A comprehensive Flutter mini-project demonstrating advanced software engineering concepts, design patterns, SOLID principles, and Clean Architecture with BLoC and GetIt.
@@ -32,37 +27,3 @@ lib/
 ├── phase_3_singleton/     # Singleton database implementation
 ├── phase_4_solid/         # SOLID principles payment gateway implementation
 └── phase_5_clean_architecture/ # Data, Domain, Presentation layers & GetIt
-
-```
-
----
-
-## 🛠️ Getting Started
-
-1. Clone the repository:
-```bash
-git clone [https://github.com/lina432/Flutter-Design-Patterns-Clean-Architecture-Mini-Project.git](https://github.com/lina432/Flutter-Design-Patterns-Clean-Architecture-Mini-Project.git)
-
-```
-
-
-2. Install dependencies:
-```bash
-flutter pub get
-
-```
-
-
-3. Run the app:
-```bash
-flutter run
-
-```
-
-
-
-```
-
-
-
-```
